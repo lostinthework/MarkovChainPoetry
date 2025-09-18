@@ -9,8 +9,4 @@ Example usage:
 
 python MarkovChainPoetry.py input.txt -n 15 -o poem.txt
 
-input.txt → training text
-
--n → number of lines (default 10)
-
--o → optional output file
+(This will read the poetry in 'input.txt' and write a 15 line poem to 'poem.txt'.)
