@@ -1,5 +1,5 @@
 # MarkovChainPoetry
-A Markov-chain–based poetry generator that creates poems or song lyrics from example text input.
+A Markov-chain–based poetry generator written in Python that creates poems or song lyrics from example text input.
 
 I made this project as a fun way to apply linear algebra and probability theory concepts that I learned in my college classes at BYU.
 
